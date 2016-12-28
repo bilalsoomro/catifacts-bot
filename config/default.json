@@ -1,0 +1,6 @@
+{
+    "appSecret": "26ae990892b38d92d39801c1c105970f",
+    "pageAccessToken": "EAACNZCIkbPYoBAGAwvccKLZBlUku2X3BLXW9bdcggYsB8b83HZCuSEtyP6rCutZBlQHFHfQQK0gGLmnNsD8FrQLpyHTQ3hDIzQe0ExH8fCohKeOz0C5OPX6worj0vzXCdwlliUK5eAFJarxR1nPKPAbRLZAbxQE9BaxtQNcKOEgZDZD",
+    "validationToken": "webhooktoken",
+    "serverURL": "https://catifacts-bot.herokuapp.com/"
+}
